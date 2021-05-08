@@ -1,0 +1,28 @@
+htm{
+    font-size:10px;
+    display: block;
+}
+
+#img-div {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 40px;
+    margin-inline-end: 40px;
+    background: white;
+    padding: 10px;
+    margin: 0;
+}
+body{
+    text-align: center;
+}
+ul{
+    list-style: none;
+}
+img {
+    max-width: 100%;
+    display: block;
+    
+    height: auto;
+ margin:auto;
+  }
